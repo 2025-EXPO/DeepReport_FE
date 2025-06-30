@@ -23,7 +23,7 @@ interface Notification {
   };
 }
 
-const API_BASE_URL = 'http://192.168.1.82:8000';
+const API_BASE_URL = 'http://172.30.1.59:8000';
 
 const Container = styled.div`
   min-height: 100vh;
